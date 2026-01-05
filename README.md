@@ -1,16 +1,20 @@
 # Hi, I'm Mahad Warsame 👋
 
-I’m a recent graduate passionate about **system development, backend engineering, and building scalable, maintainable applications**.  
+![Mahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahadWarsame&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahadWarsame&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahadWarsame&theme=radical)
+
+I’m a **recent graduate** passionate about **system development, backend engineering, and building scalable, maintainable applications**.  
 I enjoy designing robust systems, learning new technologies, and turning ideas into working software.  
 
-I’m currently looking for opportunities in **backend, full-stack, or system development roles**.
+I’m actively looking for opportunities in **backend, full-stack, or system development roles**.
 
 ---
 
 ## 🔭 Currently Working On
 - Personal projects to practice **system architecture, API design, and database optimization**.  
 - Learning **microservices, cloud deployment, and advanced backend patterns**.  
-- Building small web apps demonstrating **end-to-end system development skills**.  
+- Building web apps that demonstrate **end-to-end system development skills**.
 
 ---
 
@@ -67,21 +71,22 @@ I’m currently looking for opportunities in **backend, full-stack, or system de
 ---
 
 ## 📂 Featured Projects
+
 ### 1. **Remmittence App**
 *Node.js, Express, PostgreSQL, Stripe API*  
-A full-stack fintech system simulating secure international transactions with proper database design, authentication, and API integration.  
+A full-stack fintech system simulating secure international transactions with proper database design, authentication, and API integration.
 
 ### 2. **Crypto Arbitrage Simulator**
 *Python, Binance API*  
-Automates monitoring of cryptocurrency prices to simulate arbitrage opportunities, focusing on algorithmic problem solving.  
+Automates monitoring of cryptocurrency prices to simulate arbitrage opportunities, focusing on algorithmic problem solving.
 
 ### 3. **Task Manager / System Organizer**
 *React, Node.js, MongoDB*  
-A web system for managing and assigning tasks with authentication, role-based access, and real-time updates.  
+A web system for managing and assigning tasks with authentication, role-based access, and real-time updates.
 
 ### 4. **Portfolio Dashboard**
 *Vue.js, TailwindCSS, PostgreSQL*  
-A personal project showcasing system design, frontend/backend integration, and real-time data visualization.  
+A personal project showcasing system design, frontend/backend integration, and real-time data visualization.
 
 *Check my pinned repositories for more projects demonstrating system development, backend design, and full-stack capabilities.*
 
@@ -96,8 +101,8 @@ A personal project showcasing system design, frontend/backend integration, and r
 ---
 
 ## 📫 Contact Me
-- Email: **mahad@example.com**  
-- LinkedIn: [linkedin.com/in/mahadwarsame](https://linkedin.com/in/mahadwarsame)  
+- Email: **mahad.warsame.work@gmail.com**  
+- LinkedIn: [https://www.linkedin.com/in/warsame0/](https://www.linkedin.com/in/warsame0/)  
 - GitHub: [github.com/MahadWarsame](https://github.com/MahadWarsame)  
 
 ---
