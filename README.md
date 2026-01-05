@@ -1,9 +1,5 @@
 # Hi, I'm Mahad Warsame 👋
 
-![Mahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahadWarsame&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahadWarsame&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahadWarsame&theme=radical)
-
 I’m a **recent graduate** passionate about **system development, backend engineering, and building scalable, maintainable applications**.  
 I enjoy designing robust systems, learning new technologies, and turning ideas into working software.  
 
