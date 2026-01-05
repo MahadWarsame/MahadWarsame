@@ -64,8 +64,8 @@ A system to organize and assign tasks with user authentication and real-time upd
 ---
 
 ## 📫 Contact Me
-- Email: **mahad@example.com**  
-- LinkedIn: [linkedin.com/in/mahadwarsame](https://linkedin.com/in/mahadwarsame)  
+- Email: **mahad.warsame.work@gmail.com**  
+- LinkedIn: [https://www.linkedin.com/in/warsame0/)  
 - GitHub: [github.com/MahadWarsame](https://github.com/MahadWarsame)  
 
 ---
