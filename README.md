@@ -72,17 +72,6 @@ I’m actively looking for opportunities in **backend, full-stack, or system dev
 *Node.js, Express, PostgreSQL, Stripe API*  
 A full-stack fintech system simulating secure international transactions with proper database design, authentication, and API integration.
 
-### 2. **Crypto Arbitrage Simulator**
-*Python, Binance API*  
-Automates monitoring of cryptocurrency prices to simulate arbitrage opportunities, focusing on algorithmic problem solving.
-
-### 3. **Task Manager / System Organizer**
-*React, Node.js, MongoDB*  
-A web system for managing and assigning tasks with authentication, role-based access, and real-time updates.
-
-### 4. **Portfolio Dashboard**
-*Vue.js, TailwindCSS, PostgreSQL*  
-A personal project showcasing system design, frontend/backend integration, and real-time data visualization.
 
 *Check my pinned repositories for more projects demonstrating system development, backend design, and full-stack capabilities.*
 
