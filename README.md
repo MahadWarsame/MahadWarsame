@@ -40,20 +40,12 @@ A full-stack fintech system simulating secure international transactions with pr
 
 ---
 
-## 🌱 Learning & Growth
-- Microservices architecture & distributed systems  
-- Cloud deployment & CI/CD pipelines (AWS, Docker, Kubernetes)  
-- Advanced database optimization & query performance  
-- Scalable system design for enterprise-grade applications  
+### 📫 Contact Me
+[📧](mailto:mahad.warsame.work@gmail.com)  
+[🔗 LinkedIn](https://www.linkedin.com/in/warsame0/)  
+[🐙 GitHub](https://github.com/MahadWarsame)
 
 ---
 
-## 📫 Contact Me
-- Email: **mahad.warsame.work@gmail.com**  
-- LinkedIn: [https://www.linkedin.com/in/warsame0/](https://www.linkedin.com/in/warsame0/)  
-- GitHub: [github.com/MahadWarsame](https://github.com/MahadWarsame)  
-
----
-
-## ⚡ Fun Fact
-I love **breaking down complex problems into clean, maintainable code** and building projects that demonstrate **real-world system design skills**.
+## 🌟 Outside Coding
+- ⚽ Playing or watching football with friends 
